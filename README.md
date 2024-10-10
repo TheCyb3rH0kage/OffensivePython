@@ -21,7 +21,6 @@ The follwing are the tools that I am going to upload (if not upload then please 
 ● Steal credentials using fake prompts .
 ● Display fake updates .
 ● Use own keylogger to spy on everything typed on Windows & Linux.
-● Basics of website hacking / penetration testing .
 ● Discover subdomains .
 ● Discover hidden files and directories in a website .
 ● Run wordlist attacks to guess login information .
